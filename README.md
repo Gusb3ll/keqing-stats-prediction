@@ -1,4 +1,4 @@
-# keqing-damange-prediction
+# keqing-stats-prediction
 
 My first ever machine learning project
 
