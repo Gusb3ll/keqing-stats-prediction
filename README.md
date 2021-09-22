@@ -10,11 +10,12 @@ Dataset used for training/testing model : https://www.kaggle.com/ccaitlum/genshi
 
 Train data from Lv0 to Lv90
 
-![88215be6-9fab-4e2e-abea-ca23784e718d](https://user-images.githubusercontent.com/77166960/132366377-0123b730-a7d4-4ac6-a098-82ba135615b5.png)
+![cce3350c-7af5-4579-bb7c-8ddb35deb741](https://user-images.githubusercontent.com/77166960/132536205-e6b7cff6-7d9f-4497-807d-178353f2b96c.png)
 
-Predicted Hp, ATK, DEF from Lv0 to Lv200
+Predicted Hp, ATK, DEF & CRIT damage from Lv0 to Lv200
 
-![67e4dea0-3424-4e20-aa49-fc5407071aaa](https://user-images.githubusercontent.com/77166960/132342451-7b0f5181-1ef2-4add-bba2-df2e4c6df839.png)
+![7de3ba23-80b6-44fc-91a9-a717b5c4fd8f](https://user-images.githubusercontent.com/77166960/132536301-aff04235-0f99-4e89-847e-2031cf53dd02.png)
+
 
 
 
